@@ -15,6 +15,7 @@ coverage
 
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
+temp_auto_push.bat
 
 # node-waf configuration
 .lock-wscript
@@ -31,4 +32,5 @@ npm-debug.log
 
 .DS_Store
 
-.env
+.env.gitignore
+branch_structure.json
